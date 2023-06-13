@@ -1,0 +1,13 @@
+geopandas
+Rtree
+Pillow
+scikit-image
+scikit-learn
+tqdm
+tensorflow
+pandas
+albumentations
+tensorflow-addons
+segmentation-models
+rasterio
+notebook
